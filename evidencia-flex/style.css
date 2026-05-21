@@ -6,7 +6,7 @@
 body{
     background-color: #f1f1f1;
     font-family: Arial, sans-serif;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 
@@ -14,8 +14,7 @@ body{
     display:flex;
     flex-direction: row;
     background-color: #fff;
-    width: 90%;
-    
+    width: 95%;
     border: black solid 2px;
     align-items: stretch;
 }
@@ -70,21 +69,23 @@ body{
     background-color: #4CAF50;
     border-radius: 5px;
     text-align: center;
-    padding-top: 25px;
+    padding-top: 20px;
     box-sizing: border-box;
+    box-shadow: #3e8a40 5px 5px;
 }
 
 .clase-progra2{
     position: relative;
     left: 10px;
-    top: 10px;
+    top: 15px;
     width: 90%;
     height: 155px;
     background-color: #4CAF50;
     border-radius: 5px;
     text-align: center;
-    padding-top: 25px;
+    padding-top: 20px;
     box-sizing: border-box;
+    box-shadow: #3e8a40 5px 5px;
 }
 
 .clase-bd{
@@ -98,12 +99,13 @@ body{
     text-align: center;
     padding-top: 25px;
     box-sizing: border-box;
+    box-shadow:#1b76c0 5px 5px;
 }
 
 .clase-bd2{
     position: relative;
-    left: 10px;
-    top: 10px;
+    left: 15px;
+    top: 15px;
     width: 90%;
     height: 155px;
     background-color: #2196F3;
@@ -111,6 +113,7 @@ body{
     text-align: center;
     padding-top: 25px;
     box-sizing: border-box;
+    box-shadow:#1b76c0 5px 5px;
 }
 
 .clase-requi{
@@ -122,21 +125,23 @@ body{
     background-color: #FF5722;
     border-radius: 5px;
     text-align: center;
-    padding-top: 35px;
+    padding-top: 30px;
     box-sizing: border-box;
+    box-shadow:#d4481d 5px 5px;
 }
 
 .clase-requi2{
     position: relative;
     left: 10px;
-    top: 10px;
+    top: 15px;
     width: 90%;
     height: 155px;
     background-color: #FF5722;
     border-radius: 5px;
     text-align: center;
-    padding-top: 35px;
+    padding-top: 25px;
     box-sizing: border-box;
+    box-shadow:#d4481d 5px 5px;
 }
 
 .clase-html{
@@ -148,26 +153,28 @@ body{
     background-color: #9C27B0;
     border-radius: 5px;
     text-align: center;
-    padding-top: 25px;
+    padding-top: 20px;
     box-sizing: border-box;
+    box-shadow: #7b1e8b 5px 5px; 
 }
 
 .clase-html2{
     position: relative;
     left: 10px;
-    top: 10px;
+    top: 15px;
     width: 90%;
     height: 155px;
     background-color: #9C27B0;
     border-radius: 5px;
     text-align: center;
-    padding-top: 25px;
+    padding-top: 10px;
     box-sizing: border-box;
+    box-shadow: #7b1e8b 5px 5px;
 }
 
 .clase-ingles{
     position: relative;
-    left: 10px;
+    left: 5px;
     top: 5px;
     width: 90%;
     height: 155px;
@@ -176,12 +183,13 @@ body{
     text-align: center;
     padding-top: 50px;
     box-sizing: border-box;
+    box-shadow: #b66e03 5px 5px;
 }
 
 .clase-ingles2{
     position: relative;
-    left: 10px;
-    top: 10px;
+    left: 5px;
+    top: 15px;
     width: 90%;
     height: 155px;
     background-color: #FF9800;
@@ -189,32 +197,35 @@ body{
     text-align: center;
     padding-top: 50px;
     box-sizing: border-box;
+    box-shadow: #b66e03 5px 5px;
 }
 
 .clase-ambiente{
     position: relative;
-    left: 10px;
-    top: 15px;
-    width: 90%;
-    height: 155px;
-    background-color: #8BC34A;
-    border-radius: 5px;
-    text-align: center;
-    padding-top: 50px;
-    box-sizing: border-box;
-}
-
-.clase-ambiente2{
-    position: relative;
-    left: 10px;
+    left: 5px;
     top: 20px;
     width: 90%;
     height: 155px;
     background-color: #8BC34A;
     border-radius: 5px;
     text-align: center;
+    padding-top: 40px;
+    box-sizing: border-box;
+    box-shadow: #658d38 5px 5px;
+}
+
+.clase-ambiente2{
+    position: relative;
+    left: 5px;
+    top: 30px;
+    width: 90%;
+    height: 155px;
+    background-color: #8BC34A;
+    border-radius: 5px;
+    text-align: center;
     padding-top: 50px;
     box-sizing: border-box;
+    box-shadow: #658d38 5px 5px;
 }
 
 .clase-py{
@@ -226,21 +237,23 @@ body{
     background-color: #f34ecf;
     border-radius: 5px;
     text-align: center;
-    padding-top: 45px;
+    padding-top: 25px;
     box-sizing: border-box;
+    box-shadow: #a7358e 5px 5px;
 }
 
 .clase-py2{
     position: relative;
     left: 10px;
-    top: 10px;
+    top: 15px;
     width: 90%;
     height: 155px;
     background-color: #f34ecf;
     border-radius: 5px;
     text-align: center;
-    padding-top: 45px;
+    padding-top: 25px;
     box-sizing: border-box;
+    box-shadow: #a7358e 5px 5px;
 }
 
 .dia_sabado{

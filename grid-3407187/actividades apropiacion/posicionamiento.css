@@ -1,0 +1,39 @@
+
+
+.container{
+    display: grid;
+    border: 2px solid brown;
+    background-color: beige;
+    height: 500px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.item1{
+    background-color: chocolate;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.item2{
+    background-color: dimgrey;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+.item3{
+    background-color: darkgreen;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.item4{
+    background-color: wheat;
+
+}
+
+.item5{
+    background-size: cover;
+    background-color: aqua;
+}
